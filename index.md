@@ -1,7 +1,6 @@
 ## OzDebt
 
-Debt Recovery Software broought to you by Bliss.AI Pty Ltd
-
+Debt Recovery Software brought to you by Bliss.AI Pty Ltd
 
 ### Support or Contact
 

@@ -1,6 +1,6 @@
 ## OzDebt
 
-Debt Recovery Software brought to you by Project Lounge Australia Pty Ltd 
+Debt Recovery and automation brought to you by Project Lounge Australia Pty Ltd 
 
 ABN 98 101 551 482
 

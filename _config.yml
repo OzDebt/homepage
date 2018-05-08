@@ -1,2 +1,4 @@
 theme: jekyll-theme-slate
 show_forkme_ribbon: false
+forkme:
+  active: true

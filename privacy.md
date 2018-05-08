@@ -144,9 +144,10 @@ and we will promptly remove you from ALL correspondence.
 
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 
-Bliss.AI Pty Ltd
-500 Westover Dr #1415
-Sanford, NC 27330 USA
+Project Lounge Australia Pty Ltd
+32 Kennedy Tce
+Paddington Qld 4064
+Australia
 support@ozdebt.com
 
-Last Edited on 2018-03-18
+Last Edited on 2018-05-08

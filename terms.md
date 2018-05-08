@@ -2,9 +2,9 @@
 Please read the following terms and conditions carefully before creating an online collaboration portal or engaging out service. Using our portal or services indicates your acceptance of the OzDebt Terms and Conditions and the OzDebt Acceptable Use Policy. You may also like to read through our Privacy Policy below.
 
 ## Terms and Conditions
-These terms and conditions were revised on March 19, 2018
+These terms and conditions were revised on May 8, 2018
 
-These are the Bliss.AI Pty Ltd, Standard Terms And Conditions for the Supply of the OzDebt Application Service ("the Service"). These terms apply to you as a user of the Service ("client"). It is intended to ensure that you know your rights and obligations when using the Service.
+These are the Project Lounge Australia Pty Ltd, Standard Terms And Conditions for the Supply of the OzDebt Application Service ("the Service"). These terms apply to you as a user of the Service ("client"). It is intended to ensure that you know your rights and obligations when using the Service.
 
 Please read these terms and conditions carefully. It is a condition of your use of the Service that you comply with these terms and conditions.
 

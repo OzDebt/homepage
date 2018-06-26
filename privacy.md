@@ -140,6 +140,51 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 and we will promptly remove you from ALL correspondence.
 
 
+## Privacy obligations to the debtor and third parties
+      • The Office of the Australian Information Commissioner (OAIC) has responsibility for privacy regulation at the Commonwealth level.22
+
+      • A debtor’s personal information should always be treated with respect. The improper use of a debtor’s personal information may cause that person serious difficulties.
+      • There are legal obligations under the Privacy Act 1988 (Cth) (the Privacy Act) designed to protect the privacy of a debtor’s personal information.
+      • A debtor’s personal information may be regulated by the Privacy Act in a number of ways.
+      • Personal information means information or an opinion, whether it is true or not, about an individual that can reasonably allow the individual to be identified.23
+
+### Collecting and disclosing the debtor’s personal information
+Information handling by private sector organisations is regulated, in part, by the Australian Privacy Principles (the APPs).24
+There are several key obligations around handling personal information:
+      • Personal information (other than sensitive information which is discussed below) must not be collected about an individual unless the information is reasonably necessary for one or more of your organisation’s functions or activities. Therefore, only collect information that is reasonably necessary to recover the debt. For example, do not write down extra information about the debtor from an identifying document just because it might be useful.
+      • Sensitive information must not be collected about an individual unless the individual has consented and the information is reasonably necessary for one or more of your organisation’s functions or activities. Some limited exceptions to this rule apply. Sensitive information includes information or an opinion about an individual’s race or religious beliefs, criminal record, health information, or membership of a professional or trade association.
+      • Personal information must be collected only by lawful and fair means and must be collected directly from the debtor, unless this is unreasonable or impracticable.25
+      • When the debtor’s information is collected, whether from a creditor or from the debtor, take reasonable steps to let the debtor know:
+              • the identity of the organisation collecting the information and how to contact it
+              • the fact that the organisation has collected information and the circumstances of that collection
+              • the purposes for which the information is collected
+              • the main consequences (if any) for the individual if all or part of the information is not provided
+              • any law that requires the particular information to be collected
+              • the organisations (or types of organisations) to which the organisation usually discloses information of that kind
+              • whether the organisation is likely to disclose the information to overseas recipients
+              • the fact that the debtor may access the information collected
+              • how the individual can complain about a breach of the APPs.26
+      • Do not use or disclose the information for a purpose other than that for which it was collected unless the debtor has consented to that use or disclosure or another exception applies.27
+      • Do not use or disclose personal information for direct marketing, unless certain matters are satisfied.28
+      • Before disclosing personal information about a debtor to an overseas recipient, the collector must take such steps as are reasonable in the circumstances to ensure that the overseas recipient does not breach the APPs in relation to that information.29
+      • Caution should be exercised when leaving messages for the debtor that may be seen or accessed by third parties, for example:
+      • business cards or other documentation should not be left for the debtor in any open manner that would allow a third party to infer the nature of your interest in contacting the debtor
+      • voicemail messages should be phrased so as to avoid a third party inferring the nature of your interest in contacting the debtor
+      • at no stage should contact be made by a debtor’s social media account that would compromise the debtor’s privacy, for example, placing a message for the debtor in a way that would allow anyone other than the debtor to view it.
+### What you should do with the debtor’s personal information
+      • take reasonable steps to ensure that the personal information being collected is accurate, complete and up-to-date. Before using or disclosing the personal information, having regard to the purpose of that use or disclosure, take reasonable steps to ensure the information is accurate, up-to-date, complete and relevant30
+      • if personal information is kept for any time, ensure it is secure against misuse, interference or loss and from unauthorised access, modification or disclosure
+      • if the information is no longer needed for any purpose for which the information may be used or disclosed, or required by law or a court to be retained, take reasonable steps to destroy it or permanently de-identify the record31
+      • the debtor has a right to access and correct the personal information collected and certain procedures must be followed to facilitate that access or correction.32
+### Rights of third parties
+      • Collectors also have privacy obligations to third parties who they collect personal information from. Under APP 3, the personal information of third parties may only be collected if this is reasonably necessary for one or more functions or activities of the collector. Third parties must also be advised if their personal information is collected.
+      • Obligations regarding consumer credit reports
+      • Part IIIA of the Privacy Act also regulates the handling of personal information contained in consumer credit reports.33 Credit providers should take care what information from a credit report is made available to you to recover a debt and ensure that defaults are only listed if the information is correct. For example, a credit provider should not disclose to an externally contracted debt collector a credit report or any information from a credit report apart from:
+      • details about the debt to be collected
+      • information that is reasonably necessary in order to identify the individual. In certain circumstances, this may include the name and addresses of the debtor
+      • any court judgments or bankruptcy orders against the debtor
+      • personal insolvency information about the debtor
+
 ## Contacting Us
 
 If there are any questions regarding this privacy policy, you may contact us using the information below.

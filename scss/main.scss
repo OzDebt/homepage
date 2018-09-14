@@ -1,6 +1,12 @@
 
+@import url('https://fonts.googleapis.com/css?family=Nunito:400,600,700,900|Quicksand:300,400,500,700');
+
 @import "bootstrap/functions";
 @import "bootstrap/variables";
+
+/*font-family: 'Nunito', sans-serif;
+font-family: 'Quicksand', sans-serif;*/
+
 
 //
 // Grid mixins
@@ -16,8 +22,12 @@
 @import "theme/reset";
 
 
+
+
 // Custom Scss 
 @import "theme/elements";
+
+
 @import "theme/header";
 @import "theme/home";
 @import "theme/footer";

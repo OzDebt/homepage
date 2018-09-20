@@ -9,9 +9,6 @@ $(document).ready(function(){
 	}else if(ua.indexOf("Trident") > -1){
 		msie = 'msie_agent';
 	}
-	
-	console.log(msie);
-	
 	$(document.body).addClass(msie);
 	var window_width 	 = $(window).width(),
 	window_height 		 = window.innerHeight,

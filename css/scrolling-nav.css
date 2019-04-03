@@ -1,0 +1,92 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+
+ header {
+    padding: 100px 60px 0 0;
+  }
+  
+  @media (min-width: 992px) {
+    header {
+      padding: 100px 60px 0 0;
+    }
+  }
+  
+  section {
+    padding: 50px 0;
+  }
+  
+  .datapoint {
+      border-radius: 50px; 
+      -moz-border-radius: 50px; 
+      -webkit-border-radius: 50px; 
+      border: 2px solid #6C757D;
+      color: #6C757D;
+      width: 140px;
+      height: 50px;
+      text-align: center;
+      padding:10px;
+  }
+  
+  .datapoint-text {
+      margin: 0 auto;
+      display: inline-block;
+      color: #6C757D;
+  }
+  
+  .xero-datapoint {
+      border-radius: 50px; 
+      -moz-border-radius: 50px; 
+      -webkit-border-radius: 50px; 
+      border: 2px solid #80BCE4;
+      color: #80BCE4;
+      width: 140px;
+      height: 50px;
+      text-align: center;
+      padding:10px;
+  }
+  
+  .xero-datapoint-text {
+      margin: 0 auto;
+      display: inline-block;
+      color: #80BCE4;
+  }
+  
+  .centered-outer-div
+  {
+      padding: 30px;
+      text-align: center;
+  }
+  
+  .centered-inner-div
+  {
+      display: inline-block;
+      padding: 50px;
+  }
+  
+  .verticalized-div {
+      height: 100%;
+      display: flex;
+      justify-content: center;
+    align-items: center;
+  }
+  
+  .call-to-action-div {
+      text-align: center;
+  }
+  
+  .call-to-action-btn {
+      margin-bottom:5px;
+  }
+  
+  #plus-sign {
+      font-size: 40px;
+      color: #80BCE4;
+  }
+  
+  .data-direction-td {
+      min-width: 40px;
+  }
+  
